@@ -7,12 +7,13 @@ The graphs and visualisations presented in this report are based on data obtaine
   <img width="700" src="BAN1.png">
 </p>
 
+#### Development of total cases, deaths and recoveries
 Flot plot HALLO
 <iframe src="/oversigtbyday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 ![image](https://user-images.githubusercontent.com/60900143/80474990-7e6dd800-8948-11ea-8ea9-9ee43e9ab953.png) PAS PÅ!!
 
-
+<span style="color:red">some **This is Red Bold.** text</span>
 
 Uhh,-nu-bliver-det-lækkert-plot
 <br>
