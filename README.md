@@ -6,9 +6,7 @@ The graphs and visualisations presented in this report are based on data obtaine
 |---|
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv" data-icon="octicon-eye" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv"></script>
+<GitHubButton href="https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv">Watch</GitHubButton>
 
 <p align="center">
   <img width="700" src="BAN1.png">
