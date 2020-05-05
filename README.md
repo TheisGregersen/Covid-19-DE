@@ -14,7 +14,7 @@ The graphs and visualisations presented in this report are based on data obtaine
   <img width="700" src="BAN1.png">
 </p>
 
-Flot plot
+Flot plot HALLO
 ![image](https://user-images.githubusercontent.com/60900143/80474990-7e6dd800-8948-11ea-8ea9-9ee43e9ab953.png) PAS PÅ!!
 
 
