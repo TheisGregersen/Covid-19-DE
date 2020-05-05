@@ -3,8 +3,18 @@
 ### Get a quick and easy overview of Germanys situation and se how the virus has spread out since the first outbreak were registered on Januray 28, 2020 in the state of Bavaria. 
 The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
 
+
+<h2 align="center">
+Total
+</h2>
 <p align="center">
   <img width="700" src="BAN1.png">
+</p>
+<h2 align="center">
+Per one milion inhabitant
+</h2>
+<p align="center">
+  <img width="700" src="BAN2.png">
 </p>
 
 <h2 align="center">
