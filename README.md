@@ -1,4 +1,4 @@
-# Newest corona numbers from Germany
+# Newest corona updates on Germany
 ## Get and quick and easy overview of Germanys situation. 
 
 This page will investigate the spread of COVID-19 in Germany. <br>
