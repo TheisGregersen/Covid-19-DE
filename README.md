@@ -11,7 +11,7 @@ The graphs and visualisations presented in this report are based on data obtaine
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/oversigtbyday.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 #### See if your country is fucked
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234-2.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 
 
