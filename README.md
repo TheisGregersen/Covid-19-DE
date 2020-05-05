@@ -1,8 +1,8 @@
 # Newest corona updates on Germany
-## Get and quick and easy overview of Germanys situation. 
 
-This page will investigate the spread of COVID-19 in Germany. <br>
-The first case of the coronavirus in Germany were registered on Januray 28, 2020 in the state of Bavaria. 
+### Get a quick and easy overview of Germanys situation and se how the virus has spread out since the first outbreak were registered on Januray 28, 2020 in the state of Bavaria. 
+
+
 
 <p align="center">
   <img width="700" src="BAN.png">
@@ -20,7 +20,3 @@ Uhh,-nu-bliver-det-lækkert-plot
 ## "WOW!! HOLD NU OP" siger Sune om dette plot
 
 <iframe src="/CasesPer100K.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-
-![MEGA FEED](https://github.com/fertin/Random/blob/master/Assignment2P3.gif?fbclid=IwAR1XvovCVwFiMBrr2b-X-YPQyQpec-bzlBPhB8W44WzQpMigvvyP-9Nlkqo)Welcome to the TheisGregersen.github.io wiki!
-
-https://raw.githubusercontent.com/fertin/Random/master/Assignment2P3.gif
