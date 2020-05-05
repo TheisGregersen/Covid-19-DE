@@ -10,7 +10,7 @@ The graphs and visualisations presented in this report are based on data obtaine
 <h2 align="center">
 Development of total cases, deaths and recoveries
 </h2>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/oversigtbyday.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/oversigtbyday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 <h3 align="center">
 Heatmap 
@@ -20,7 +20,7 @@ Heatmap
 <h3 align="center">
 See if your country is fucked
 </h3>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 
 
