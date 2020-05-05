@@ -3,9 +3,7 @@
 This page will investigate the spread of COVID-19 in Germany. <br>
 The first case of the coronavirus in Germany were registered on Januray 28, 2020 in the state of Bavaria. 
 
-etc.
-etc.
-etc.
+![BAN](https://user-images.githubusercontent.com/60900143/81058081-00707a80-8ece-11ea-8292-b54db671e07e.png)
 
 
 Flot plot
