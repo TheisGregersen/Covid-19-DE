@@ -12,6 +12,7 @@ Development of total cases, deaths and recoveries
 </h2>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/oversigtbyday.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
+<iframe src="/heatmap.DE.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 <h3 align="center">
 See if your country is fucked
