@@ -7,7 +7,9 @@ The graphs and visualisations presented in this report are based on data obtaine
   <img width="700" src="BAN1.png">
 </p>
 
-#### Development of total cases, deaths and recoveries
+<p align="center">
+### Development of total cases, deaths and recoveries
+</p>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/oversigtbyday.html" sandbox="allow-same-origin allow-scripts" width="1000" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 #### See if your country is fucked
