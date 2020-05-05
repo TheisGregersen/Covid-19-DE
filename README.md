@@ -1,7 +1,7 @@
 # Newest covid-19 updates on Germany
 
 ### Get a quick and easy overview of Germanys situation and se how the virus has spread out since the first outbreak were registered on Januray 28, 2020 in the state of Bavaria. 
-The graphs and visualisations presented in this report are based on data obtained from the following link: 
+The graphs and visualisations presented in this report are based on data obtained from the following site: 
 |[Click here](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv)|
 |---|
 
