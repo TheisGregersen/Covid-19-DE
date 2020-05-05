@@ -1,44 +1,26 @@
-## Welcome to GitHub Pages
-## Welcome to GitHub Pages
-## Welcome to GitHub Pages
-## Welcome to GitHub Pages
+# COVID-19 Germany!!
+
+This page will investigate the spread of COVID-19 in Germany. <br>
+The first case of the coronavirus in Germany were registered on Januray 28, 2020 in the state of Bavaria. 
+
+etc.
+etc.
+etc.
 
 
+Flot plot
+![image](https://user-images.githubusercontent.com/60900143/80474990-7e6dd800-8948-11ea-8ea9-9ee43e9ab953.png) PAS PÅ!!
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TheisGregersen/Covid-19-DE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Flottere plot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Uhh,-nu-bliver-det-lækkert-plot
+<br>
 
-### Markdown
+## "WOW!! HOLD NU OP" siger Sune om dette plot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="/CasesPer100K.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
-```markdown
-Syntax highlighted code block
+![MEGA FEED](https://github.com/fertin/Random/blob/master/Assignment2P3.gif?fbclid=IwAR1XvovCVwFiMBrr2b-X-YPQyQpec-bzlBPhB8W44WzQpMigvvyP-9Nlkqo)Welcome to the TheisGregersen.github.io wiki!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheisGregersen/Covid-19-DE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://raw.githubusercontent.com/fertin/Random/master/Assignment2P3.gif
