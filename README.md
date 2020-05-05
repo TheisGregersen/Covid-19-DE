@@ -1,4 +1,5 @@
-# COVID-19 Germany!!
+# Newest corona numbers from Germany
+## Get and quick and easy overview of Germanys situation. 
 
 This page will investigate the spread of COVID-19 in Germany. <br>
 The first case of the coronavirus in Germany were registered on Januray 28, 2020 in the state of Bavaria. 
