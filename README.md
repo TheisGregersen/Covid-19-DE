@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="700" src="BAN.png">
+  <img width="700" src="BAN1.png">
 </p>
 
 Flot plot
