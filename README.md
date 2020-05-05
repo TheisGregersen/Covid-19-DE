@@ -23,9 +23,7 @@ Development of total cases, deaths and recoveries
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/oversigtbyday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 ## Test af Victor
-<video controls loop>
-  <source src="https://theisgregersen.github.io/Covid-19-DE/animation.gif" >
-</video>
+![]("https://theisgregersen.github.io/Covid-19-DE/animation.gif")
 
 <IMG SRC="https://theisgregersen.github.io/Covid-19-DE/animation.gif">
 
