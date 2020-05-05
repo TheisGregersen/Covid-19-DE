@@ -1,4 +1,4 @@
-# Newest corona updates on Germany
+# Newest covid-19 updates on Germany
 
 ### Get a quick and easy overview of Germanys situation and se how the virus has spread out since the first outbreak were registered on Januray 28, 2020 in the state of Bavaria. 
 
