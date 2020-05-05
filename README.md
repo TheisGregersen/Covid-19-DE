@@ -4,7 +4,7 @@
 The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
 
 <p align="center">
-  <img width="700" src="BAN1.png">
+  <img width="900" src="BAN1.png">
 </p>
 
 #### Development of total cases, deaths and recoveries
