@@ -5,7 +5,8 @@ The graphs and visualisations presented in this report are based on data obtaine
 |[Click here](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv)|
 |---|
 
-[Click me](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv){: .btn}
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv" data-icon="octicon-eye" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
 
 <p align="center">
   <img width="700" src="BAN1.png">
