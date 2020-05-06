@@ -25,7 +25,6 @@ Development of total cases, deaths and recoveries
 ## Test af Victor
 ![gif](animation.gif)
 
-<IMG SRC="https://theisgregersen.github.io/Covid-19-DE/animation.gif">
 
 
 ## Slut test Victor
