@@ -26,49 +26,6 @@ Development of total cases, deaths and recoveries
 ## Test af Victor
 ![gif](animation.gif)
 
-<div class="custom-select" style="width:200px;">
-  <select>
-    <option value="0">Select car:</option>
-    <option value="1">Audi</option>
-    <option value="2">BMW</option>
-    <option value="3">Citroen</option>
-    <option value="4">Ford</option>
-    <option value="5">Honda</option>
-    <option value="6">Jaguar</option>
-    <option value="7">Land Rover</option>
-    <option value="8">Mercedes</option>
-    <option value="9">Mini</option>
-    <option value="10">Nissan</option>
-    <option value="11">Toyota</option>
-    <option value="12">Volvo</option>
-  </select>
-</div>
-
-<select>
-<option value="">Select an Area</option>
-<option value="1">Area1</option>
-<option value="2">Area2</option>
-<option value="3">Area3</option>
-<option value="3">Area4</option>
-<option value="3">Not Defined Area</option>
-</select>
-<div <iframe src="https://theisgregersen.github.io/Covid-19-DE/overview_cum.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>  style="height: 400px; width: 600px;"></div>
-<div id="chart2"  style="height: 400px; width: 600px;"></div>
-<div id="chart3"  style="height: 400px; width: 600px;"></div>
-<div id="chart4"  style="height: 400px; width: 600px;"></div>
-<div id="chart5"  style="height: 400px; width: 600px;"></div> 
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Slut test Victor
 
