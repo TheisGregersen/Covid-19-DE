@@ -95,3 +95,36 @@ See if your country is fucked
 </h3>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 </details>
+
+
+
+
+ <div class="form-group">
+    <label for="seeAnotherFieldGroup">Do You Want To See Another Group of Fields?</label>
+    <select class="form-control" id="seeAnotherFieldGroup">
+          <option value="no">Not Particularly.</option>
+          <option value="yes">I Guess!</option>
+    </select>
+  </div>
+  
+  <div class="form-group" id="otherFieldGroupDiv">
+    <div class="row">
+      <div class="col-6">
+        <label for="otherField1">Group: Heres One!</label>
+        <input type="text" class="form-control w-100" id="otherField1">
+      </div>
+      <div class="col-6">
+        <label for="otherField2">Group: Another One!</label>
+        <input type="text" class="form-control w-100" id="otherField2">
+      </div>
+    </div>
+  </div>
+  
+  <div class="form-group">
+    <label for="comments">Comments/Questions</label>
+    <textarea class="form-control" id="comments" rows="3"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
