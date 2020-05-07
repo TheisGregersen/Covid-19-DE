@@ -46,21 +46,16 @@ See if your country is fucked
 
 
 
-<details open>
-<summary>Dropdown menu - Klik Her?</summary>
+<details>
+<summary>Dropdown menu - Graf 1?</summary>
 <br>
-</h3>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+</details>
+
+<details>
+<summary>Dropdown menu - Graf 2?</summary>
+<br>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 </details>
 
 
-
-
-<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
