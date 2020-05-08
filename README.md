@@ -35,6 +35,7 @@ As many other nations the german government tried to prevent Covid-19 spreading 
 
 ## Test af Victor
 | ![gif](animation.gif) |
+|:--:| 
 | *Number of Cases per State over Time* |
 
 ## Slut test Victor
