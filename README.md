@@ -8,7 +8,7 @@ Many visuals include userfriendly navigation, which involves zoomability by mark
 <div style="display: inline">
     <div style="width:80%; display: inline-block; float:left; margin-right: 10px;"></div>
     <div style="width: 19%; display: inline-block; border: 1px solid red"></div>
-</div
+</div>
 
 TESTq123
 
