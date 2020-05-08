@@ -34,14 +34,14 @@ As many other nations the german government tried to prevent Covid-19 spreading 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0" title="A cute kitten"> </iframe>
 
 ## Test af Victor
-| ![gif](animation.gif) |
-|:--:| 
-| *Number of Cases per State over Time* |
 
 <figure>
   <img src="animation.gif" alt="my alt text"/>
   <figcaption align="center"> Number of Cases per State over Time.</figcaption>
 </figure>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 
 ## Slut test Victor
