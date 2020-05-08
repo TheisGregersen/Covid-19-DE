@@ -49,18 +49,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h3 align="center">
 Total infected Heatmap 
 </h3>
+<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+  <figcaption align="center"> Indsæt caption.</figcaption>
+</figure>
 
 <h3 align="center">
 Registered infected over weeks
 </h3>
+<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+  <figcaption align="center"> Indsæt caption.</figcaption>
+</figure>
 
 <h3 align="center">
 See if your country is fucked
 </h3>
+<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-
+  <figcaption align="center"> Indsæt caption.</figcaption>
+</figure>
 
 According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation/) the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this [source](https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds) it has been determined that the number of available beds at hospitals for Covid-19 is 139,474.
 
