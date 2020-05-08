@@ -38,6 +38,12 @@ As many other nations the german government tried to prevent Covid-19 spreading 
 |:--:| 
 | *Number of Cases per State over Time* |
 
+<figure>
+  <img src="animation.gif" alt="my alt text"/>
+  <figcaption>Number of Cases per State over Time.</figcaption>
+</figure>
+
+
 ## Slut test Victor
 
 <h3 align="center">
