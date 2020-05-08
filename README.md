@@ -5,11 +5,12 @@ The graphs and visualisations presented in this report are based on data obtaine
 
 Many visuals include userfriendly navigation, which involves zoomability by marking an area and toggling values on and off in the legend. The most important icons are <img width="20" src="resetzoom.PNG">, which resets the zoom of the graph and <img width="40" src="choirce.PNG"> which respectively shows single value of the line hovered or all values for the date hovered. 
 
-<div style="width:800px;">
-  <div style="width:300px; float:left;"></div>
-  <div style="width:300px; float:right;"></div>
-</div>
- <div style="clear: both;"></div>
+<div style="display: inline">
+    <div style="width:80%; display: inline-block; float:left; margin-right: 10px;"></div>
+    <div style="width: 19%; display: inline-block; border: 1px solid red"></div>
+</div
+
+TESTq123
 
 <h3 align="center">
 Total
