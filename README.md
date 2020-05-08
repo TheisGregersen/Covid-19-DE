@@ -74,13 +74,26 @@ According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five
 
 
 <details>
-<summary>Dropdown menu - Graf 1?</summary>
+<summary>Dropdown menu - R0-værdi 1</summary>
 <br>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 </details>
 
 <details>
-<summary>Dropdown menu - Graf 2?</summary>
+<summary>Dropdown menu - R0-værdi 2?</summary>
+<br>
+
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+ 
+   <figcaption align="center"> Test of Figure Caption.</figcaption>
+</figure>
+  
+</details>
+
+
+<details>
+<summary>Dropdown menu - R0-værdi 3?</summary>
 <br>
 
 <figure>
