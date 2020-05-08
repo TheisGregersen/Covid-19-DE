@@ -37,12 +37,12 @@ As many other nations the german government tried to prevent Covid-19 spreading 
 
 <figure>
   <img src="animation.gif" alt="my alt text"/>
-  <figcaption align="center"> Number of Cases per State over Time.</figcaption>
+  <figcaption align="center" style="font-size:10px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
 <figure>
   <img src="animation_new.gif" alt="my alt text"/>
-  <figcaption align="center" style="font-size:8px"> Number of Cases per State over Time.</figcaption>
+  <figcaption align="center" style="font-size:10px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -56,7 +56,7 @@ Total infected Heatmap
 </h3>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center"> Indsæt caption.</figcaption>
+  <figcaption align="center" style="font-size:10px"> Indsæt caption.</figcaption>
 </figure>
 
 <h3 align="center">
@@ -64,7 +64,7 @@ Registered infected over weeks
 </h3>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center"> Indsæt caption.</figcaption>
+  <figcaption align="center" style="font-size:10px"> Indsæt caption.</figcaption>
 </figure>
 
 <h3 align="center">
@@ -72,7 +72,7 @@ See if your country is fucked
 </h3>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center"> Indsæt caption.</figcaption>
+  <figcaption align="center" style="font-size:10px"> Indsæt caption.</figcaption>
 </figure>
 
 According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation/) the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this [source](https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds) it has been determined that the number of available beds at hospitals for Covid-19 is 139,474.
@@ -91,7 +91,7 @@ According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
  
-   <figcaption align="center"> Test of Figure Caption.</figcaption>
+   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
 </figure>
   
 </details>
@@ -104,7 +104,7 @@ According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
  
-   <figcaption align="center"> Test of Figure Caption.</figcaption>
+   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
 </figure>
   
 </details>
