@@ -40,7 +40,7 @@ As many other nations the german government tried to prevent Covid-19 spreading 
 
 <figure>
   <img src="animation.gif" alt="my alt text"/>
-  <figcaption>Number of Cases per State over Time.</figcaption>
+  <figcaption align="center"> Number of Cases per State over Time.</figcaption>
 </figure>
 
 
