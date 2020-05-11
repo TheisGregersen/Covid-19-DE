@@ -31,7 +31,13 @@ Germany saw a very low number of cases from the first registered case on the 28t
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/overview_cum.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
+<h3 align="center">
+Cases are not evenly distributed between age groups and gender.
+</h3>
 
+Indsæt tekst
+
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 <h3 align="center">
 Case development per State
@@ -46,34 +52,20 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
 
 As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. These all include the three mentioned states with the highest case-count, of which Bayern and Baden-Wuerttenberg are adjacent. The centrered spead could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. This is also apparent from the race bar chart above, where we do not see any of the other states increasing as rapidly as Bayern, Nordrhein-Westfallen and Baden-Wuerttenberg.
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>  |  <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>
-
-<h3 align="center">
-Total infected Heatmap 
-</h3>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>
+  <figcaption align="center" style="font-size:12px"> Distrubution of cases, recoveries and deaths.</figcaption>
 </figure>
 
 
-<h3 align="center">
-Total infected Heatmap 
-</h3>
-<figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>
-</figure>
 
 <h3 align="center">
-Registered infected over weeks
+Registered cases over time - County-level
 </h3>
+Tjek om index=dato virker (Victor). Fiks hvordan interaktiv bar ser ud. <br>
 
-Tjek om index=dato virker (Victor). Fiks hvordan interaktiv bar ser ud.
+Hvad pokker skal vi skrive her?
+
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>
@@ -81,14 +73,16 @@ Tjek om index=dato virker (Victor). Fiks hvordan interaktiv bar ser ud.
   
 
 <h3 align="center">
-Regulations in trying to prevent further spread
+Measurements in attempt of reducing spread
 </h3>
   <p>
-As many other nations the german government tried to prevent Covid-19 spreading out of control by enforcing some regulations. In the visual below the five most important regulations are noted by date together with the data of daily occurences of Covid-19; both new cases, deaths and recoveries. It appears that around end March early April the number of new cases started declining and could be seen as an outcome of the initiatives taken by the government. On the 15th of April the government declared a small success in stopping the spread and immediately it can be seen there is a small increase in daily cases. This however, is not to be seen as a direct consequence of the announcement, as it usually takes more than a few days from catching the virus to showing symptons. The same pattern can be seen on the days following the 20th of April where shops again were allowed to open up. </p>
+R0 is a term used a lot when talking about epidemics and pandemics. It is essentially a measure of spreadability of the given virus. It refers to the number of people a single infected person will infect. E.g. a R0 value of 0.8 means that a 100 infected people can be expected to infect 80 new people. This also means that a R0 below 1 means that a virus will die out eventually, whereas a R0-value of 2 means the number of infected people will double for every infection-period. <br>
+  <br>
+As many other nations the german government tried to prevent Covid-19 spreading out of control by enforcing some regulations. In the visual below the five most important regulations are noted by date together with the data of daily occurences of Covid-19; both new cases, deaths and recoveries. Here we around mid March see a an exponential increase in new cases for each day, which refers to an R0 value of above 1. Around end March early April the number of new cases started declining and could be seen as an outcome of the initiatives taken by the government in reducing the R0. On the 15th of April the government declared a small success in stopping the spread and immediately it can be seen there is a small increase in daily cases. This however, is not to be seen as a direct consequence of the announcement, as it usually takes more than a few days from catching the virus to showing symptons. The same pattern can be seen on the days following the 20th of April where shops again were allowed to open up. </p>
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+
 
 
 <h3 align="center">
