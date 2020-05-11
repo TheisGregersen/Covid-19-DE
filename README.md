@@ -1,4 +1,4 @@
-# Newest covid-19 updates on Germany.<3
+# Newest covid-19 updates on Germany.
 
 ### Get a quick and easy overview of Germanys situation and se how the virus has spread out since the first outbreak were registered on Januray 28, 2020 in the state of Bavaria. 
 The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
@@ -74,9 +74,9 @@ See if your country is fucked (R0 plots)
 
 
 
-According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation)
+According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation/)
 
-the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this [source](https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds)
+the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this [source](https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds/)
 
 it has been determined that the number of available beds at hospitals for Covid-19 is 139,474.
 
