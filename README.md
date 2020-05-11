@@ -74,9 +74,7 @@ See if your country is fucked (R0 plots)
 
 According to <a href="https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation">imperial</a> 
 
-the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this [source](https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds/)
-
-it has been determined that the number of available beds at hospitals for Covid-19 is 139,474.
+the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this <a href="https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds">source</a> it has been determined that the number of available beds at hospitals for Covid-19 is 139,474.
 
 <details>
 <summary>Dropdown menu - R0-værdi 1</summary>
