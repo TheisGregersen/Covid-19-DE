@@ -67,6 +67,8 @@ As many other nations the german government tried to prevent Covid-19 spreading 
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0" title="A cute kitten"> </iframe>
 
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0" title="A cute kitten"> </iframe>
+
 
 <h3 align="center">
 See if your country is fucked (R0 plots)
