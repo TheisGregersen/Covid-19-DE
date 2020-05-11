@@ -56,11 +56,6 @@ Tjek om index=dato virker (Victor). Fiks hvordan interaktiv bar ser ud.
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>
 </figure>
-
-<h3 align="center">
-See if your country is fucked (R0 plots)
-</h3>
-<figure>
   
 
 <h3 align="center">
@@ -71,6 +66,11 @@ As many other nations the german government tried to prevent Covid-19 spreading 
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0" title="A cute kitten"> </iframe>
 
+
+<h3 align="center">
+See if your country is fucked (R0 plots)
+</h3>
+<figure>
 
 According to [imperial](https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation) the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this [source](https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds) it has been determined that the number of available beds at hospitals for Covid-19 is 139,474.
 
