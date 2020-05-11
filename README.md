@@ -54,7 +54,7 @@ Registered infected over weeks
 
 Tjek om index=dato virker (Victor). Fiks hvordan interaktiv bar ser ud.
 <figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="950" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>
 </figure>
   
