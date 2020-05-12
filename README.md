@@ -74,7 +74,7 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
   <figcaption align="center" style="font-size:11px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
-The heatmap below shows the daily occurences across all Germany. <a href="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html">Link to Original.</a>
+The heatmap below shows the daily occurences across all Germany. <a target="_blank" rel="noopener noreferrer" href="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html">Link to Original.</a>
 
 <figure>
   <img src="Time_HeatMap.gif" alt="my alt text" width="100%"/>
@@ -100,8 +100,8 @@ See if your country is fucked (R0 plots)
 </h3>
 <figure>
 
-According to <a href="https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation">imperial</a>
-the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this <a href="https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds">source</a> it has been determined that the number of available beds at hospitals for Covid-19 is 139,474. <br>
+According to <a target="_blank" rel="noopener noreferrer" href="https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation">imperial</a>
+the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds">source</a> it has been determined that the number of available beds at hospitals for Covid-19 is 139,474. <br>
 The following visualisations are based on the known epidemic-simulation formula, SEIR. This takes a number of inputs which have been determined to have the following values:
 
 <ul>
@@ -122,19 +122,19 @@ The visual show five lines which are:
 
 The initial values for the five above mentioned are set to be the registered values of May the 2nd 2020.<br>
 <br>
-The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
+The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a target="_blank" rel="noopener noreferrer" href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
 <br>
 Below three different scenarios are presented. (<b> Click </b> each scenario to expand)
 
 <details>
-<summary>The first is the current state of Germany with an R0 value of 0.9 (<a href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
+<summary>The first is the current state of Germany with an R0 value of 0.9 (<a target="_blank" rel="noopener noreferrer" href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_09.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 </details>
 
 
 <details>
-<summary>Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
+<summary>Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a target="_blank" rel="noopener noreferrer" href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_3.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
  
