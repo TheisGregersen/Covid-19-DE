@@ -142,11 +142,12 @@ Below three different scenarios are presented. Try toggling off different lines.
 
 <details>
 <summary> <b>Scenario 3</b> The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is calculated to be approximately 1.38. </summary>
+<div>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_138.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
    <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 1.38.</figcaption>
 </figure>
+  </div>
 </details>
-
 
 
