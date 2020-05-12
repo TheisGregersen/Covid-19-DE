@@ -56,16 +56,18 @@ Looking into how the different age groups and gender are affected by COVID 19 it
   <figcaption align="center" style="font-size:12px"> Cases and Recoveries by Gender and Age Group.</figcaption>
 </figure>
 
+From both the visual above and below, it is apparent that the probability of COVID-19 having a fatal outcome increases the elder the person being infected is. Due to the high difference in number of deaths between the age groups the y-axis has been log-scaled. To get the original values please hover the bars. <br>
 
+**OBS - Log Scaled Y-Axis**
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Number of Deaths per Agegroup - logsScaled.</figcaption>
+  <figcaption align="center" style="font-size:12px"> Number of Deaths per Age Group - Log Scaled.</figcaption>
 </figure>
 
 
 
 <h2 align="center">
-Case development per State
+Development over Time
 </h2>
 
 The first case was as mentioned in the state of Bayern and it took almost a month for the other states to register more than a few cases. Bayern is together with Nordrhein-Westfallen and Baden-Wuerttenberg the three states with majority of registered cases. 
@@ -75,20 +77,13 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
   <figcaption align="center" style="font-size:11px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
+The heatmap below shows the daily occurences across all Germany. **Indsæt mere tekst her**
 
 
-
-
-<h3 align="center">
-Registered cases over time - County-level
-</h3>
-Tjek om index=dato virker (Victor). Fiks hvordan interaktiv bar ser ud. <br>
-
-Hvad pokker skal vi skrive her?
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Indsæt caption.</figcaption>
+  <figcaption align="center" style="font-size:12px"> Heatmap of Daily Registered Cases.</figcaption>
 </figure>
   
 
