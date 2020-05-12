@@ -31,7 +31,7 @@ As seen from the heatmap below, the highest number of registered cases are locat
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:14px"> Distrubution of cases, recoveries and deaths.</figcaption>
+  <figcaption align="center" style="font-size:16px"> Distrubution of cases, recoveries and deaths.</figcaption>
 </figure>
 
 <h3 align="center">
@@ -122,17 +122,17 @@ The initial values for the five above mentioned are set to be the registered val
 <br>
 The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a target="_blank" rel="noopener noreferrer" href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
 <br>
-Below three different scenarios are presented. (<b> Click </b> each scenario to expand). Try toggling off different lines.
+Below three different scenarios are presented. Try toggling off different lines. (<b>Click </b> each scenario to expand).
 
 <details>
-<summary>The first is the current state of Germany with an R0 value of 0.9 (<a target="_blank" rel="noopener noreferrer" href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
+<summary> <b>Scenario 1</b> The first is the current state of Germany with an R0 value of 0.9 (<a target="_blank" rel="noopener noreferrer" href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_09.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
      <figcaption align="center" style="font-size:10px"> COVID-19 spread with R0 value of 0.9.</figcaption>
 </details>
 
 
 <details>
-<summary>Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a target="_blank" rel="noopener noreferrer" href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
+<summary> <b>Scenario 2</b> Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a target="_blank" rel="noopener noreferrer" href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_3.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
    <figcaption align="center" style="font-size:10px"> COVID-19 spread with R0 value of 3.</figcaption>
@@ -141,7 +141,7 @@ Below three different scenarios are presented. (<b> Click </b> each scenario to 
 
 
 <details>
-<summary>The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is calculated to be approximately 1.38. </summary>
+<summary> <b>Scenario 3</b> The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is calculated to be approximately 1.38. </summary>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_138.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
    <figcaption align="center" style="font-size:10px"> COVID-19 spread with R0 value of 1.38.</figcaption>
