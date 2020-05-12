@@ -1,5 +1,4 @@
 # COVID-19 in Germany.
-# test2
 
 This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
 The most important being the three following:
@@ -125,6 +124,7 @@ The initial values for the five above mentioned are set to be the registered val
 The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a target="_blank" rel="noopener noreferrer" href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
 <br>
 Below three different scenarios are presented. Try toggling off different lines. (<b>Click </b> each scenario to expand).
+<br>
 
 <details>
 <summary> <b>Scenario 1</b> The first is the current state of Germany with an R0 value of 0.9 (<a target="_blank" rel="noopener noreferrer" href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
@@ -140,7 +140,7 @@ Below three different scenarios are presented. Try toggling off different lines.
    <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 3.</figcaption>
 </figure>
 </details>
-
+<br>
 
 <details>
 <summary> <b>Scenario 3</b> The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is calculated to be approximately 1.38. </summary>
