@@ -1,5 +1,5 @@
 # COVID-19 in Germany.
-# Test
+
 This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
 The most important being the three following:
 * <b> 13-03-2020 </b> - 14 of the 16 states closes their schools and nurseries.
@@ -143,9 +143,7 @@ Below three different scenarios are presented. Try toggling off different lines.
 <details>
 <summary> <b>Scenario 3</b> The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is calculated to be approximately 1.38. </summary>
 <figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_138.html" sandbox="allow-same-origin allow-scripts" width="80%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_138.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
    <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 1.38.</figcaption>
   </figure>
 </details>
-test1
-
