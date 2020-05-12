@@ -148,3 +148,21 @@ Below three different scenarios are presented. Try toggling off different lines.
   </figure>
 </details>
 
+
+
+<details>
+<summary> <b>Scenario 1</b> The first is the current state of Germany with an R0 value of 0.9 (<a target="_blank" rel="noopener noreferrer" href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_09.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+     <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 0.9.</figcaption>
+  
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_3.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+   <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 3.</figcaption>
+</figure>
+
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_138.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+   <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 1.38.</figcaption>
+  </figure>
+</details>
+<br>
