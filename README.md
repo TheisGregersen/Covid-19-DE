@@ -135,7 +135,7 @@ Disclaimer: Problems when rendering of the following visualisations can appear (
 <br>
 
 <details>
-<summary> <b>Scenario 2</b> Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a target="_blank" rel="noopener noreferrer" href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
+<summary> <b>Scenario 2</b> Italy has been one of the hardest hit coutries in Europe. According to this (<a target="_blank" rel="noopener noreferrer" href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://theisgregersen.github.io/Covid-19-DE/R0_3.html">Link to graph</a> </p>
 <figure>
