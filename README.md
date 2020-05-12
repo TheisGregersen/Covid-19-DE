@@ -1,5 +1,5 @@
 # COVID-19 in Germany.
-# test1
+# test2
 
 This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
 The most important being the three following:
@@ -131,7 +131,7 @@ Below three different scenarios are presented. Try toggling off different lines.
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_09.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
      <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 0.9.</figcaption>
 </details>
-
+<br>
 
 <details>
 <summary> <b>Scenario 2</b> Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a target="_blank" rel="noopener noreferrer" href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
