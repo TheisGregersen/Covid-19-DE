@@ -1,4 +1,4 @@
-# COVID-19 on Germany.
+# COVID-19 in Germany.
 # Tror vi skal ændre covid til COVID 
 
 
