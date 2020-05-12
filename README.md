@@ -125,6 +125,7 @@ The simulations are of course under the assumption that no progression within me
 <br>
 Below three different scenarios are presented. Try toggling off different lines. (<b>Click </b> each scenario to expand).
 <br>
+<br>
 
 <details>
 <summary> <b>Scenario 1</b> The first is the current state of Germany with an R0 value of 0.9 (<a target="_blank" rel="noopener noreferrer" href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
