@@ -37,17 +37,32 @@ Germany saw a very low number of cases from the first registered case on the 28t
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/overview_cum.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
-test tekst
+
+As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. The three states with the highest case-coun are Bayern, Baden-Wuerttenberg and Nordrhein-Westfallen. The centrered spead could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. 
+
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+  <figcaption align="center" style="font-size:12px"> Distrubution of cases, recoveries and deaths.</figcaption>
+</figure>
 
 <h3 align="center">
-Cases are not evenly distributed between age groups and gender.
+COVID-19 has different impact depending on age and gender.
 </h3>
 
-Indsæt tekst
+Looking into how the different age groups and gender are affected by COVID 19 it is present that female have a higher number of cases than men. It can also be seen that people in the age between 35 and 59 are the most present in the statistic. This is not to be mistaken has the hardest hit age group, as this age group also has the <a href="https://www.statista.com/statistics/454349/population-by-age-group-germany/">biggest population in Germany </a>.
 
+<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+  <figcaption align="center" style="font-size:12px"> Cases and Recoveries by Gender and Age Group.</figcaption>
+</figure>
 
+
+<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+  <figcaption align="center" style="font-size:12px"> Number of Deaths per Agegroup - logsScaled.</figcaption>
+</figure>
+
+
 
 <h2 align="center">
 Case development per State
@@ -60,12 +75,7 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
   <figcaption align="center" style="font-size:11px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
-As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. These all include the three mentioned states with the highest case-count, of which Bayern and Baden-Wuerttenberg are adjacent. The centrered spead could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. This is also apparent from the race bar chart above, where we do not see any of the other states increasing as rapidly as Bayern, Nordrhein-Westfallen and Baden-Wuerttenberg.
 
-<figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Distrubution of cases, recoveries and deaths.</figcaption>
-</figure>
 
 
 
