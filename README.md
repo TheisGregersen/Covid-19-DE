@@ -13,25 +13,25 @@ The graphs and visualisations presented in this report are based on data obtaine
 Many visuals include userfriendly navigation, which involves zoomability by marking an area and toggling values on and off in the legend. The most important icons are <img width="20" src="resetzoom.PNG">, which resets the zoom of the graph and <img width="40" src="choirce.PNG"> which respectively shows single value of the line hovered or all values for the date hovered. 
 
 
-<h3 align="center">
-Key Numbers
-</h3>
 <h2 align="center">
-Total
+Key Numbers
 </h2>
+<h3 align="center">
+Total
+</h3>
 <p align="center">
   <img width="700" src="BAN1.png">
 </p>
-<h2 align="center">
+<h3 align="center">
 Per one milion inhabitant
-</h2>
+</h3>
 <p align="center">
   <img width="700" src="BAN2.png">
 </p>
 
-<h3 align="center">
+<h2 align="center">
 Development of total cases, deaths and recoveries
-</h3>
+</h2>
 
 Germany saw a very low number of cases from the first registered case on the 28th of January and till early March. Here the spread of Covid-19 started to take place and the numbers increased quite rapidly over the following weeks. It appears that from mid April to 2nd of May the growth in cases has decreased.
 
@@ -47,9 +47,9 @@ Indsæt tekst
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
-<h3 align="center">
+<h2 align="center">
 Case development per State
-</h3>
+</h2>
 
 The first case was as mentioned in the state of Bayern and it took almost a month for the other states to register more than a few cases. Bayern is together with Nordrhein-Westfallen and Baden-Wuerttenberg the three states with majority of registered cases. 
 
