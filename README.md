@@ -60,7 +60,7 @@ From both the visual above and below, it is apparent that the probability of COV
 
 **OBS - Log Scaled Y-Axis**
 <figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%" height="200" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%"  scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:12px"> Number of Deaths per Age Group - Log Scaled.</figcaption>
 </figure>
 
