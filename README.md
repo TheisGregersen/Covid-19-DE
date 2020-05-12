@@ -3,10 +3,10 @@
 
 
 This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
-These are
-* <b> 13-03-2020 </b> - 14 of the 16 states closes their schools and nurseries
-* <b> 15-03-2020 </b> - Germany closes the borders
-* <b> 22-03-2020 </b> - The governement and the federal states forbids gatherings of more than two people for two weeks and require a minimum distance of 1.5 meters between everyone
+The most important being the three following:
+* <b> 13-03-2020 </b> - 14 of the 16 states closes their schools and nurseries.
+* <b> 15-03-2020 </b> - Germany closes the borders.
+* <b> 22-03-2020 </b> - The governement and the federal states forbids gatherings of more than two people for two weeks and require a minimum distance of 1.5 meters between everyone.
 
 The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
 <br>
@@ -14,24 +14,24 @@ Many visuals include userfriendly navigation, which involves zoomability by mark
 
 
 <h2 align="center">
-Key Numbers
+  General Overview
 </h2>
-<h3 align="center">
-Total
-</h3>
+<h4 align="center">
+Total Occurences
+</h4>
 <p align="center">
   <img width="700" src="BAN1.png">
 </p>
-<h3 align="center">
-Per one milion inhabitant
-</h3>
+<h4 align="center">
+Per One Milion Inhabitant
+</h4>
 <p align="center">
   <img width="700" src="BAN2.png">
 </p>
 
-<h2 align="center">
+<h3 align="center">
 Development of total cases, deaths and recoveries
-</h2>
+</h3>
 
 Germany saw a very low number of cases from the first registered case on the 28th of January and till early March. Here the spread of Covid-19 started to take place and the numbers increased quite rapidly over the following weeks. It appears that from mid April to 2nd of May the growth in cases has decreased.
 
