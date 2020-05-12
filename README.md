@@ -74,16 +74,11 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
   <figcaption align="center" style="font-size:11px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
-The heatmap below shows the daily occurences across all Germany. **Indsæt mere tekst her**
+The heatmap below shows the daily occurences across all Germany. <a href="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html">Link to Original.</a>
 
 <figure>
   <img src="Time_HeatMap.gif" alt="my alt text" width="100%"/>
   <figcaption align="center" style="font-size:11px"> Heatmap of Daily Registered Cases.</figcaption>
-</figure>
-
-<figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Heatmap of Daily Registered Cases.</figcaption>
 </figure>
   
 
