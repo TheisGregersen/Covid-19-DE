@@ -60,7 +60,7 @@ From both the visual above and below, it is apparent that the probability of COV
 
 **OBS - Log Scaled Y-Axis**
 <figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%"  height="250" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%"  height="300" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:12px"> Number of Deaths per Age Group - Log Scaled.</figcaption>
 </figure>
 
@@ -79,8 +79,6 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
 
 The heatmap below shows the daily occurences across all Germany. **Indsæt mere tekst her**
 
-
-
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:12px"> Heatmap of Daily Registered Cases.</figcaption>
@@ -91,9 +89,9 @@ The heatmap below shows the daily occurences across all Germany. **Indsæt mere 
 Measurements in attempt of reducing spread
 </h3>
   <p>
-R0 is a term used a lot when talking about epidemics and pandemics. It is essentially a measure of spreadability of the given virus. It refers to the number of people a single infected person will infect. E.g. a R0 value of 0.8 means that a 100 infected people can be expected to infect 80 new people. This also means that a R0 below 1 means that a virus will die out eventually, whereas a R0-value of 2 means the number of infected people will double for every infection-period. <br>
+R0 is the basic reproduction rate. A term used a lot when talking about epidemics and pandemics. It is essentially a measure of spreadability of the given virus. It refers to the number of people a single infected person will infect. E.g. a R0 value of 0.8 means that a 100 infected people can be expected to infect 80 new people. This also means that a R0 below 1 means that a virus will die out eventually, whereas a R0-value of 2 means the number of infected people will double for every infection-period. <br>
   <br>
-As many other nations the german government tried to prevent Covid-19 spreading out of control by enforcing some regulations. In the visual below the five most important regulations are noted by date together with the data of daily occurences of Covid-19; both new cases, deaths and recoveries. Here we around mid March see a an exponential increase in new cases for each day, which refers to an R0 value of above 1. Around end March early April the number of new cases started declining and could be seen as an outcome of the initiatives taken by the government in reducing the R0. On the 15th of April the government declared a small success in stopping the spread and immediately it can be seen there is a small increase in daily cases. This however, is not to be seen as a direct consequence of the announcement, as it usually takes more than a few days from catching the virus to showing symptons. The same pattern can be seen on the days following the 20th of April where shops again were allowed to open up. </p>
+As many other nations the german government tried to prevent Covid-19 spreading out of control by enforcing some regulations. In the visual below the five most important regulations are noted by date together with the data of daily occurences of Covid-19; both new cases, deaths and recoveries. Around mid March an exponential increase in newly registered cases by each day is seen, which refers to an R0 value of above 1. Around end March early April the number of new cases started declining and could be seen as an outcome of the initiatives taken by the government in reducing the R0. On the 15th of April the government declared a small success in stopping the spread and immediately it can be seen there is a small increase in daily cases. This however, is not to be seen as a direct consequence of the announcement, as it usually takes more than a few days from catching the virus to showing symptons. The same pattern can be seen on the days following the 20th of April where shops again were allowed to open up. </p>
 
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
@@ -105,14 +103,65 @@ See if your country is fucked (R0 plots)
 </h3>
 <figure>
 
-According to <a href="https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation">imperial</a> 
+According to <a href="https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation">imperial</a>
+the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this <a href="https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds">source</a> it has been determined that the number of available beds at hospitals for Covid-19 is 139,474. <br>
+The following visualisations are based on the known epidemic-simulation formula, SEIR. This takes a number of inputs which have been determined to have the following values:
+* <b> Infection Period </b> - 14 days (Number of days infected)
+* <b> Incubation Period </b> - 14 days (Number of days in incubation if virus caught)
+* <b> DeathRate </b> - 0.66 % (Probability of dying to the virus)
+* <b> R0 </b> - The basic reproduction rate.
 
-the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this <a href="https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds">source</a> it has been determined that the number of available beds at hospitals for Covid-19 is 139,474.
+The visual show four 
+* <b> Suspectible </b> - number of people who can still catch the virus
+* <b> Infected </b> - Number of people infected by the virus
+* <b> Recovered </b> - Number of people recovered from the virus
+* <b> Deaths </b> - Number of people killed by the virus
+* <b> Hospitalised </b> - 11.8 % of the infected
+
+The initial values for the five above mentioned are set to be the registered values of May the 2nd 2020.<br>
+The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
+<br>
+Below three different scenarios are presented.
+* The first is the current state of Germany with an R0 value of 0.9 (<a href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)
+
+<details>
+<summary>R0 equal to 0.9</summary>
+<br>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+</details>
+
+* Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3. <br>
+
+<details>
+<summary>R0 equal to 0.9</summary>
+<br>
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+ 
+   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
+</figure>
+</details>
+
+* The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is estimated to being **INDSÆT TAL** <br>
+
+<details>
+<summary>R0 equal to 0.9</summary>
+<br>
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+ 
+   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
+</figure>
+</details>
 
 <details>
 <summary>Dropdown menu - R0-værdi 1</summary>
 <br>
+<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+ 
+   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
+</figure>
 </details>
 
 <details>
