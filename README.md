@@ -1,8 +1,14 @@
-# Newest Covid-19 updates on Germany.
+# COVID-19 on Germany.
 # Tror vi skal ændre covid til COVID 
 
 
-This website has as goal to present the outbreak of Covid-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site. The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
+This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
+These are
+* 14 of the 16 states closes their schools and nurseries - 13-03-2020
+* Germany closes the borders - 15-03-2020
+* The governement and the federal states forbids gatherings of more than two people for two weeks and require a minimum distance of 1.5 meters between everyone - 22-03-2020
+
+The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
 <br>
 Many visuals include userfriendly navigation, which involves zoomability by marking an area and toggling values on and off in the legend. The most important icons are <img width="20" src="resetzoom.PNG">, which resets the zoom of the graph and <img width="40" src="choirce.PNG"> which respectively shows single value of the line hovered or all values for the date hovered. 
 
