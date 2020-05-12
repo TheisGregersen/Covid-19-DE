@@ -122,19 +122,16 @@ The initial values for the five above mentioned are set to be the registered val
 The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
 <br>
 Below three different scenarios are presented.
-* The first is the current state of Germany with an R0 value of 0.9 (<a href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)
 
 <details>
-<summary>R0 equal to 0.9</summary>
+<summary>The first is the current state of Germany with an R0 value of 0.9 (<a href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
 <br>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 </details>
 
-* Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3. <br>
 
 <details>
-<summary>R0 equal to 0.9</summary>
-<br>
+<summary>Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
  
@@ -142,11 +139,9 @@ Below three different scenarios are presented.
 </figure>
 </details>
 
-* The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is estimated to being **INDSÆT TAL** <br>
 
 <details>
-<summary>R0 equal to 0.9</summary>
-<br>
+<summary>The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is estimated to being <b> INDSÆT TAL </b> </summary>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
  
