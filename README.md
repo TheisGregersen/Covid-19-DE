@@ -77,7 +77,7 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
 The heatmap below shows the daily occurences across all Germany. **Indsæt mere tekst her**
 
 <figure>
-  <img src="Time_HeatMap.gif" alt="my alt text" width="120%"/>
+  <img src="Time_HeatMap.gif" alt="my alt text" width="100%"/>
   <figcaption align="center" style="font-size:11px"> Heatmap of Daily Registered Cases.</figcaption>
 </figure>
 
