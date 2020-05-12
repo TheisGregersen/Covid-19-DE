@@ -40,7 +40,7 @@ As seen from the heatmap below, the highest number of registered cases are locat
 COVID-19 has different impact depending on age and gender.
 </h3>
 
-Looking into how the different age groups and gender are affected by COVID 19 it is present that female have a higher number of cases than men. It can also be seen that people in the age between 35 and 59 are the most present in the statistic. This is not to be mistaken has the hardest hit age group, as this age group also has the biggest population in Germany (<a href="https://www.statista.com/statistics/454349/population-by-age-group-germany/">source</a>).
+Looking into how the different age groups and gender are affected by COVID 19 it is present that female have a higher number of cases than men. It can also be seen that people in the age between 35 and 59 are the most present in the statistic. This is not to be mistaken has the hardest hit age group, as this age group also has the biggest population in Germany (<a href="https://www.statista.com/statistics/454349/population-by-age-group-germany/" target="_blank">source</a>).
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
