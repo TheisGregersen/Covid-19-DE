@@ -106,17 +106,22 @@ See if your country is fucked (R0 plots)
 According to <a href="https://www.imperial.ac.uk/news/196573/covid-19-one-five-over-80s-need-hospitalisation">imperial</a>
 the deathrate is 0.66 % and the hospitalisation rate is 11.8 %. This is used in the visual below to estimate the number of hospitalised and the number of deaths. Using this <a href="https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds">source</a> it has been determined that the number of available beds at hospitals for Covid-19 is 139,474. <br>
 The following visualisations are based on the known epidemic-simulation formula, SEIR. This takes a number of inputs which have been determined to have the following values:
-* <b> Infection Period </b> - 14 days (Number of days infected)
-* <b> Incubation Period </b> - 14 days (Number of days in incubation if virus caught)
-* <b> DeathRate </b> - 0.66 % (Probability of dying to the virus)
-* <b> R0 </b> - The basic reproduction rate.
 
-The visual show four 
-* <b> Suspectible </b> - number of people who can still catch the virus
-* <b> Infected </b> - Number of people infected by the virus
-* <b> Recovered </b> - Number of people recovered from the virus
-* <b> Deaths </b> - Number of people killed by the virus
-* <b> Hospitalised </b> - 11.8 % of the infected
+<ol>
+  <li> <b> Infection Period </b> - 14 days (Number of days infected) </li>
+  <li> <b> Incubation Period </b> - 14 days (Number of days in incubation if virus caught) </li>
+  <li> <b> DeathRate </b> - 0.66 % (Probability of dying to the virus) </li>
+  <li> <b> R0 </b> - The basic reproduction rate. </li>
+</ol>
+
+The visual show five lines which are:
+<ol>
+  <li> <b> Suspectible </b> - number of people who can still catch the virus </li>
+  <li> <b> Infected </b> - Number of people infected by the virus </li>
+  <li> <b> Recovered </b> - Number of people recovered from the virus </li>
+  <li> <b> Deaths </b> - Number of people killed by the virus </li>
+  <li> <b> Hospitalised </b> - 11.8 % of the infected </li>
+</ol>
 
 The initial values for the five above mentioned are set to be the registered values of May the 2nd 2020.<br>
 The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
