@@ -1,4 +1,4 @@
-# COVID-19 in Germany.
+# COVID-19 in Germany
 
 This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
 The most important being the three following:
