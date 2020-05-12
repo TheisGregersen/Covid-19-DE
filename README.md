@@ -46,11 +46,8 @@ Looking into how the different age groups and gender are affected by COVID 19 it
   <figcaption align="center" style="font-size:16px"> Cases and Recoveries by Gender and Age Group.</figcaption>
 </figure>
 
-From both the visual above and below, it is apparent that the probability of COVID-19 having a fatal outcome increases the elder the person being infected is. Due to the high difference in number of deaths between the age groups the y-axis has been log-scaled. To get the original values please hover the bars. <br>
+From both the visual above and below, it is apparent that the probability of COVID-19 having a fatal outcome increases the elder the person being infected is. Due to the high difference in number of deaths between the age groups the y-axis has been <u> log-scaled </u>. To get the original values please hover the bars. <br>
 
-<p align="center">
-<b> OBS - Log Scaled Y-Axis </b>
-</p>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%"  height="300" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:16px"> Number of Deaths per Age Group - Log Scaled.</figcaption>
