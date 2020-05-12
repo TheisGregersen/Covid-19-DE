@@ -1,4 +1,5 @@
 # COVID-19 in Germany.
+# test1
 
 This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
 The most important being the three following:
@@ -42,7 +43,7 @@ Looking into how the different age groups and gender are affected by COVID 19 it
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Cases and Recoveries by Gender and Age Group.</figcaption>
+  <figcaption align="center" style="font-size:16px"> Cases and Recoveries by Gender and Age Group.</figcaption>
 </figure>
 
 From both the visual above and below, it is apparent that the probability of COVID-19 having a fatal outcome increases the elder the person being infected is. Due to the high difference in number of deaths between the age groups the y-axis has been log-scaled. To get the original values please hover the bars. <br>
@@ -52,7 +53,7 @@ From both the visual above and below, it is apparent that the probability of COV
 </p>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/deaths_bars.html" sandbox="allow-same-origin allow-scripts" width="100%"  height="300" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:12px"> Number of Deaths per Age Group - Log Scaled.</figcaption>
+  <figcaption align="center" style="font-size:16px"> Number of Deaths per Age Group - Log Scaled.</figcaption>
 </figure>
 
 
@@ -69,14 +70,14 @@ The first case was as mentioned in the state of Bayern and it took almost a mont
 
 <figure>
   <img src="animation.gif" alt="my alt text" width="120%"/>
-  <figcaption align="center" style="font-size:11px"> Number of Cases per State over Time.</figcaption>
+  <figcaption align="center" style="font-size:16px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
 The heatmap below shows the daily occurences across all Germany. <a target="_blank" rel="noopener noreferrer" href="https://theisgregersen.github.io/Covid-19-DE/heatmap_time.html">Link to Original.</a>
 
 <figure>
   <img src="Time_HeatMap.gif" alt="my alt text" width="100%"/>
-  <figcaption align="center" style="font-size:11px"> Heatmap of Daily Registered Cases.</figcaption>
+  <figcaption align="center" style="font-size:16px"> Heatmap of Daily Registered Cases.</figcaption>
 </figure>
   
 
@@ -127,7 +128,7 @@ Below three different scenarios are presented. Try toggling off different lines.
 <details>
 <summary> <b>Scenario 1</b> The first is the current state of Germany with an R0 value of 0.9 (<a target="_blank" rel="noopener noreferrer" href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_09.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-     <figcaption align="center" style="font-size:10px"> COVID-19 spread with R0 value of 0.9.</figcaption>
+     <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 0.9.</figcaption>
 </details>
 
 
@@ -135,7 +136,7 @@ Below three different scenarios are presented. Try toggling off different lines.
 <summary> <b>Scenario 2</b> Italy has been one of, if not, the hardest hit coutries in Europe. According to this (<a target="_blank" rel="noopener noreferrer" href="https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">source</a>) the R0 rate when worst in Italy was between 2.76 and 3.25. The second example will be a simulation of how Germany will be affected by having an R0 value of 3.</summary>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_3.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-   <figcaption align="center" style="font-size:10px"> COVID-19 spread with R0 value of 3.</figcaption>
+   <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 3.</figcaption>
 </figure>
 </details>
 
@@ -144,7 +145,7 @@ Below three different scenarios are presented. Try toggling off different lines.
 <summary> <b>Scenario 3</b> The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is calculated to be approximately 1.38. </summary>
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_138.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-   <figcaption align="center" style="font-size:10px"> COVID-19 spread with R0 value of 1.38.</figcaption>
+   <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 1.38.</figcaption>
 </figure>
 </details>
 
