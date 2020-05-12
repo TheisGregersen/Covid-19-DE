@@ -125,7 +125,7 @@ Below three different scenarios are presented.
 
 <details>
 <summary>The first is the current state of Germany with an R0 value of 0.9 (<a href="https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-24-20-intl/h_1b76ae623f01f30c03601354511236c9">source</a>)</summary>
-<br>
+
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 </details>
 
@@ -143,45 +143,12 @@ Below three different scenarios are presented.
 <details>
 <summary>The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is estimated to being <b> INDSÆT TAL </b> </summary>
 <figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
- 
-   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
-</figure>
-</details>
-
-<details>
-<summary>Dropdown menu - R0-værdi 1</summary>
-<br>
-<figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
- 
-   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
-</figure>
-</details>
-
-<details>
-<summary>Dropdown menu - R0-værdi 2?</summary>
-<br>
-
-<figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
- 
-   <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
-</figure>
   
-</details>
-
-
-<details>
-<summary>Dropdown menu - R0-værdi 3?</summary>
-<br>
-
-<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/test1234.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
  
    <figcaption align="center" style="font-size:10px"> Test of Figure Caption.</figcaption>
 </figure>
-  
 </details>
+
 
 
