@@ -61,7 +61,12 @@ Development over Time
 
 Germany saw a very low number of cases from the first registered case on the 28th of January and till early March. Here the spread of Covid-19 started to take place and the numbers increased quite rapidly over the following weeks. It appears that from mid April to 2nd of May the growth in cases has decreased.
 
+<figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/overview_cum.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+  <figcaption align="center" style="font-size:16px"> Number of registered cases, recoveries and deaths over time.</figcaption>
+</figure>
+
+
 
 The first case was as mentioned in the state of Bayern and it took almost a month for the other states to register more than a few cases. Bayern is together with Nordrhein-Westfallen and Baden-Wuerttenberg the three states with majority of registered cases. 
 
@@ -86,7 +91,11 @@ R0 is the basic reproduction rate. A term used a lot when talking about epidemic
   <br>
 As many other nations the german government tried to prevent Covid-19 spreading out of control by enforcing some regulations. In the visual below the five most important regulations are noted by date together with the data of daily occurences of Covid-19; both new cases, deaths and recoveries. Around mid March an exponential increase in newly registered cases by each day is seen, which refers to an R0 value of above 1. Around end March early April the number of new cases started declining and could be seen as an outcome of the initiatives taken by the government in reducing the R0. On the 15th of April the government declared a small success in stopping the spread and immediately it can be seen there is a small increase in daily cases. This however, is not to be seen as a direct consequence of the announcement, as it usually takes more than a few days from catching the virus to showing symptons. The same pattern can be seen on the days following the 20th of April where shops again were allowed to open up. </p>
 
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0">
+</iframe>
+  <figcaption align="center" style="font-size:16px"> Number of registered cases, recoveries and deaths for each day.</figcaption>
+</figure>
 
 
 
