@@ -4,9 +4,9 @@
 
 This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bavaria and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
 These are
-* <b> 13-03-2020 </b> 14 of the 16 states closes their schools and nurseries
-* <b> 15-03-2020 </b> Germany closes the borders
-* <b> 22-03-2020 </b> The governement and the federal states forbids gatherings of more than two people for two weeks and require a minimum distance of 1.5 meters between everyone
+* <b> 13-03-2020 </b> - 14 of the 16 states closes their schools and nurseries
+* <b> 15-03-2020 </b> - Germany closes the borders
+* <b> 22-03-2020 </b> - The governement and the federal states forbids gatherings of more than two people for two weeks and require a minimum distance of 1.5 meters between everyone
 
 The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
 <br>
