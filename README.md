@@ -29,15 +29,6 @@ Per One Milion Inhabitant
   <img width="700" src="BAN2.png">
 </p>
 
-<h3 align="center">
-Development of total cases, deaths and recoveries
-</h3>
-
-Germany saw a very low number of cases from the first registered case on the 28th of January and till early March. Here the spread of Covid-19 started to take place and the numbers increased quite rapidly over the following weeks. It appears that from mid April to 2nd of May the growth in cases has decreased.
-
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/overview_cum.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-
-
 As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. The three states with the highest case-coun are Bayern, Baden-Wuerttenberg and Nordrhein-Westfallen. The centrered spead could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. 
 
 <figure>
@@ -70,10 +61,14 @@ From both the visual above and below, it is apparent that the probability of COV
 Development over Time
 </h2>
 
+Germany saw a very low number of cases from the first registered case on the 28th of January and till early March. Here the spread of Covid-19 started to take place and the numbers increased quite rapidly over the following weeks. It appears that from mid April to 2nd of May the growth in cases has decreased.
+
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/overview_cum.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+
 The first case was as mentioned in the state of Bayern and it took almost a month for the other states to register more than a few cases. Bayern is together with Nordrhein-Westfallen and Baden-Wuerttenberg the three states with majority of registered cases. 
 
 <figure>
-  <img src="animation.gif" alt="my alt text"/>
+  <img src="animation.gif" alt="my alt text" width="120%"/>
   <figcaption align="center" style="font-size:11px"> Number of Cases per State over Time.</figcaption>
 </figure>
 
