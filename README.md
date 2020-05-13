@@ -39,11 +39,17 @@ As seen from the heatmap below, the highest number of registered cases are locat
 COVID-19 has different impact depending on age and gender.
 </h3>
 
-Looking into how the different age groups and gender are affected by COVID 19 it is present that female have a higher number of cases than men. It can also be seen that people in the age between 35 and 59 are the most present in the statistic. This is not to be mistaken has the hardest hit age group, as this age group also has the biggest population in Germany (<a target="_blank" rel="noopener noreferrer" href="https://www.statista.com/statistics/454349/population-by-age-group-germany/">source</a>).
+Looking into how the different age groups and gender are affected by COVID 19 it is present that female have a higher number of cases than men. It can also be seen that people in the age between 35 and 59 are the most present in the statistic. This is not to be mistaken has the hardest hit age group, as this age group also has the biggest population in Germany (<a target="_blank" rel="noopener noreferrer" href="https://www.statista.com/statistics/454349/population-by-age-group-germany/">source</a>). This is shown in the visual below again, where it is clearly shown that the persons whom are 80-99 years old are the most frequent and has the lowest recovery rate. 
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
   <figcaption align="center" style="font-size:16px"> Cases and Recoveries by Gender and Age Group.</figcaption>
+</figure>
+
+
+<figure>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid100k.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+  <figcaption align="center" style="font-size:16px"> Cases and Recoveries by Gender and Age Group per 100,000 person.</figcaption>
 </figure>
 
 From both the visual above and below, it is apparent that the probability of COVID-19 having a fatal outcome increases the elder the person being infected is. Due to the high difference in number of deaths between the age groups the y-axis has been <u> log-scaled </u>. To get the original values please hover the bars. <br>
@@ -102,7 +108,7 @@ Please note that the daily recoveries and deaths refere to the cases registered 
 
 
 <h3 align="center">
-See if your country is fucked (R0 plots)
+How does R0 affect the future?
 </h3>
 <figure>
 
