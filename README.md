@@ -46,7 +46,8 @@ Looking into how the different age groups and gender are affected by COVID 19 it
   <figcaption align="center" style="font-size:16px"> Cases and Recoveries by Gender and Age Group.</figcaption>
 </figure>
 
-That the age group 35-59 are the one with most cases are not to be mistaken with the hardest hit age group, as this age group also has the biggest population in Germany (<a target="_blank" rel="noopener noreferrer" href="https://www.statista.com/statistics/454349/population-by-age-group-germany/">source</a>). This is shown in the visual below again where the same values as above is shown but now per 100,000 inhabitant in the different age-groups and geders, where it is clearly shown that the persons whom are 80-99 years old are the most frequent and has the lowest recovery rate. 
+That the age group 35-59 are the one with most cases are not to be mistaken with the hardest hit age group, as this age group also has the biggest population in Germany (<a target="_blank" rel="noopener noreferrer" href="https://www.statista.com/statistics/454349/population-by-age-group-germany/">source</a>). 
+The following plot are using the same values as above, but now per 100,000 inhabitant in the different age groups and gender, where it is clearly illustrated that the persons form 80 and above are the most frequent and has the lowest recovery rate. 
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Pyramid100k.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
