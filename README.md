@@ -157,9 +157,9 @@ Disclaimer: Problems when rendering of the following visualisations can occur (o
 <details>
 <summary> <b>Scenario 3</b> The last is to demonstrate the maximum value of R0 where the number of available hospital beds will not be exceeded. This is calculated to be approximately 1.34. If Germany were to try and reach mass immunity, this would be the highest reproduction rate without the hospitals running out of available beds. </summary>
 <p align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://theisgregersen.github.io/Covid-19-DE/R0_133.html">Link to graph</a> </p>
+<a target="_blank" rel="noopener noreferrer" href="https://theisgregersen.github.io/Covid-19-DE/R0_134.html">Link to graph</a> </p>
 <figure>
-<iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_138.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://theisgregersen.github.io/Covid-19-DE/R0_134.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
    <figcaption align="center" style="font-size:16px"> COVID-19 spread with R0 value of 1.34.</figcaption>
   </figure>
 </details>
