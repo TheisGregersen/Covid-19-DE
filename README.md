@@ -1,6 +1,6 @@
 # COVID-19 in Germany
 
-This website presents the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bayern and has since spread across all of Germany. The government has, like many others, added new laws to try and contain the virus, in which the effectiveness of these will be examined further down the site.
+This website presents the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bayern and has since spread across all of Germany. The government has, like many others, added new laws to contain the virus, in which the effectiveness of these will be examined further down the site.
 The most important being the three following:
 * <b> 13-03-2020 </b> - 14 of the 16 states closes their schools and nurseries.
 * <b> 15-03-2020 </b> - Germany closes the borders.
@@ -18,9 +18,9 @@ The notebook for all visualisations and the exploratory analysis can be found <a
 <h4 align="center">
 Total Occurences
 </h4>
-<p align="center">
+<figure align="center">
   <img width="700" src="BAN1.png">
-</p>
+</figure>
 <h4 align="center">
 Per One Milion Inhabitant
 </h4>
@@ -28,7 +28,7 @@ Per One Milion Inhabitant
   <img width="700" src="BAN2.png">
 </p>
 
-As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. The three states with the highest case-count are Bayern, Baden-Wuerttenberg and Nordrhein-Westfallen. The centered spead could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. 
+As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. The three states with the highest case-count are Bayern, Baden-Wuerttenberg and Nordrhein-Westfallen. The centered spread could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. 
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
