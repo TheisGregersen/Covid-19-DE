@@ -32,7 +32,7 @@ As seen from the heatmap below, the highest number of registered cases are locat
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
-  <figcaption align="center" style="font-size:16px"> Distrubution of cases, recoveries and deaths.</figcaption>
+  <figcaption align="center" style="font-size:16px"> Distribution of cases, recoveries and deaths.</figcaption>
 </figure>
 
 <h3 align="center">
