@@ -19,13 +19,13 @@ The notebook for all visualisations and the exploratory analysis can be found <a
 Total Occurences
 </h4>
 <p align="center">
-  <img width="700" src="BAN1.png">
+  <img width="500" src="BAN1.png">
 </p>
 <h4 align="center">
 Per One Milion Inhabitant
 </h4>
 <p align="center">
-  <img width="700" src="BAN2.png">
+  <img width="500" src="BAN2.png">
 </p>
 
 As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. The three states with the highest case-count are Bayern, Baden-Wuerttenberg and Nordrhein-Westfallen. The centered spread could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. 
