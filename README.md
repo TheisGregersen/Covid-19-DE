@@ -1,6 +1,6 @@
 # COVID-19 in Germany
 
-This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bayern and has since spread across all of Germany. The government has, as many other, added new laws to try and contain the virus, which the effectiveness of these will be looked at further down the site.
+This website has as goal to present the outbreak of COVID-19 in the country of Germany. The first case was registered on January the 28th, 2020 in the state of Bayern and has since spread across all of Germany. The government has, like many others, added new laws to try and contain the virus, in which the effectiveness of these will be examined further down the site.
 The most important being the three following:
 * <b> 13-03-2020 </b> - 14 of the 16 states closes their schools and nurseries.
 * <b> 15-03-2020 </b> - Germany closes the borders.
