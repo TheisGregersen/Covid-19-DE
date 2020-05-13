@@ -111,7 +111,7 @@ The following visualisations are based on the known epidemic-simulation formula,
 
 <ul>
   <li> <b> Infection Period </b> - 14 days (Number of days infected) </li>
-  <li> <b> Incubation Period </b> - 14 days (Number of days in incubation if virus caught) </li>
+  <li> <b> Incubation Period </b> - 10 days (WHO states 5-14 days) (Days from catching the virus to showing symptoms) </li>
   <li> <b> DeathRate </b> - 0.66 % (Probability of dying to the virus) </li>
   <li> <b> R0 </b> - The basic reproduction rate. </li>
 </ul>
