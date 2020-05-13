@@ -67,7 +67,7 @@ From both the visual above and below, it is apparent that the probability of COV
 Development over Time
 </h2>
 
-Germany saw a very low number of cases from the first registered case on the 28th of January and till early March. Here the spread of Covid-19 started to take place and the numbers increased quite rapidly over the following weeks. It appears that from mid April to 3rd of May the growth in cases has decreased.
+Germany saw a very low number of cases from the first registered case on the 28th of January and till early March. Here the spread of Covid-19 started to take place and the numbers increased quite rapidly over the following weeks. It appears that from mid April to 3rd of May the growth in cases has decreased. However, it is important to be aware, that Germany did not prioritising testing for COVID-19 in the early stages. It was not before 17 of March, that the German Robert Koch Institute raised its threat level for Germany to "high".  They also stated that the number of cases were a lot higher than the confirmed cases due to not enough testing equipment, which is a factor when explaining the flat start of the curve (<a target="_blank" rel="noopener noreferrer" href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-03-22-en.pdf?__blob=publicationFile">source</a>). 
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/overview_cum.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
