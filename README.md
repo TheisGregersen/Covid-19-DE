@@ -9,7 +9,7 @@ The most important being the three following:
 The graphs and visualisations presented in this report are based on data obtained from this [site](https://www.kaggle.com/headsortails/covid19-tracking-germany?fbclid=IwAR2ouNxb53Z-Mk4emTUpdZog9Uhm02krlCW0yC4woPArAbeF2lt5HyraS-4#covid_de.csv).
 <br>
 Many visuals include userfriendly navigation, which involves zoomability by marking an area and toggling values on and off in the legend. The most important icons are <img width="20" src="resetzoom.PNG">, which resets the zoom of the graph and <img width="40" src="choirce.PNG"> which respectively shows single value of the line hovered or all values for the date hovered.<br>
-The notebook for all visualisations and exploratory analysis is <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/TheisGregersen/Covid-19-DE/blob/master/Explainer%20Notebook.ipynb">here.</a>
+The notebook for all visualisations and the exploratory analysis can be found <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.jupyter.org/github/TheisGregersen/Covid-19-DE/blob/master/Explainer%20Notebook.ipynb">here.</a>
 
 
 <h2 align="center">
