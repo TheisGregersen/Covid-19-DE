@@ -18,9 +18,9 @@ The notebook for all visualisations and the exploratory analysis can be found <a
 <h4 align="center">
 Total Occurences
 </h4>
-<figure align="center">
+<p align="center">
   <img width="700" src="BAN1.png">
-</figure>
+</p>
 <h4 align="center">
 Per One Milion Inhabitant
 </h4>
@@ -89,7 +89,8 @@ Measurements in attempt of reducing spread
   <p>
 R0 is the basic reproduction rate. A term used a lot when talking about epidemics and pandemics. It is essentially a measure of spreadability of the given virus. It refers to the number of people a single infected person will infect. E.g. a R0 value of 0.8 means that a 100 infected people can be expected to infect 80 new people. This also means that a R0 below 1 means that a virus will eventually die out, whereas a R0-value of 2 means the number of infected people will double for every infection-period. <br>
   <br>
-As many other nations the German government tried to prevent Covid-19 spreading out of control by enforcing some regulations. In the visual below the five most important regulations are noted by date together with the data of daily occurences of Covid-19; both new cases, deaths and recoveries. Around mid March an exponential increase in newly registered cases by each day is seen, which refers to an R0 value of above 1. Around end March early April the number of new cases started declining and could be seen as an outcome of the initiatives taken by the government in reducing the R0. On the 15th of April the government declared a small success in stopping the spread and immediately it can be seen there is a small increase in daily cases. This however, is not to be seen as a direct consequence of the announcement, as it usually takes more than a few days from catching the virus to showing symptons. The same pattern can be seen on the days following the 20th of April where shops again were allowed to open up. </p>
+As many other nations the German government tried to prevent Covid-19 spreading out of control by enforcing some regulations. In the visual below the five most important regulations are noted by date together with the data of daily occurences of Covid-19; both new cases, deaths and recoveries. Around mid March an exponential increase in newly registered cases by each day is seen, which refers to an R0 value of above 1. Around end March early April the number of new cases started declining and could be seen as an outcome of the initiatives taken by the government in reducing the R0. On the 15th of April the government declared a small success in stopping the spread and immediately it can be seen there is a small increase in daily cases. This however, is not to be seen as a direct consequence of the announcement, as it usually takes more than a few days from catching the virus to showing symptons. The same pattern can be seen on the days following the 20th of April where shops again were allowed to open up.<br>
+Please note that the daily recoveries and deaths refere to the cases registered on the same date. E.g. on April the 8th there were 5268 cases and as of 3rd of May 4163 of them are recovered and 288 dead. This leaves with 807 of the cases still being active.</p>
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/Overview_byday.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0">
