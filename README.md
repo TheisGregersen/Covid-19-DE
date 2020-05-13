@@ -28,7 +28,7 @@ Per One Milion Inhabitant
   <img width="700" src="BAN2.png">
 </p>
 
-As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. The three states with the highest case-coun are Bayern, Baden-Wuerttenberg and Nordrhein-Westfallen. The centrered spead could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. 
+As seen from the heatmap below, the highest number of registered cases are located in the south and western part of Germany. The three states with the highest case-count are Bayern, Baden-Wuerttenberg and Nordrhein-Westfallen. The centered spead could be explained by the measures taken by the government, of which the first was implemented on the 13th of March. Reduced mobility of citizens between states reduces the cross-state spread. 
 
 <figure>
 <iframe src="https://theisgregersen.github.io/Covid-19-DE/heatmap_DE.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
