@@ -134,7 +134,7 @@ The visual show five lines which are:
   <li> <b> Hospitalised </b> - 11.8 % of the infected </li>
 </ul>
 
-The initial values for the five above mentioned are set to be the registered values of May the 2nd 2020.<br>
+The initial values for the five above mentioned are set to be the registered values of May the 3rd 2020.<br>
 <br>
 The simulations are of course under the assumption that no progression within medical treatment or no new regulations are enforced. This also means that this should not be seen as representative of the future, but mostly as a visual understanding of R0 and how a reduction in this can have a big impact on the spread of the virus. As greatly visualised by <a target="_blank" rel="noopener noreferrer" href="https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/The-Math-Behind-Social-Distancing.jpg">Visual Capitalist</a> social distancing has a massive effect on the spread of a virus (R0), thus this can be used as an understanding of how social distancing and other measures taken by each individual can have a big impact on the impact of a virus. <br>
 <br>
